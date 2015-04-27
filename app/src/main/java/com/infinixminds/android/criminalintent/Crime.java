@@ -4,7 +4,10 @@ import java.util.Date;
 import java.util.UUID;
 
 /**
- * Created by Stevo on 4/16/2015.
+ * Created by Leptonian on 4/16/2015.
+ * Welcome to Lepton The open source Galaxy.
+ * ~~~~~~The future is open source ~~~~~
+ * ~~~Open source starts with you ~~ The future starts with you~~
  */
 public class Crime {
     private UUID mId;
